@@ -1,0 +1,23 @@
+{
+  "name": "bookApp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khoe.nguyen",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.3",
+    "morgan": "~1.6.1",
+    "body-parser": "~1.14.2",
+    "cookie-parser": "~1.4.0",
+    "method-override": "~2.3.5",
+    "errorhandler": "~1.4.2",
+    "express-handlebars": "~2.0.1",
+    "moment": "~2.11.0",
+    "multer": "~1.1.0",
+    "connect-multiparty": "~2.0.0"
+  }
+}
